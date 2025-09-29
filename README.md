@@ -1,7 +1,3 @@
-Of course\! Here's a GitHub repository description based on the files you provided.
-
-This project is a microservices-based application featuring an **Anti-Money Laundering (AML) Service**, an **Authentication Service**, and a **Python Worker**. The .NET services handle core application logic, while the Python worker likely manages background tasks, with RabbitMQ facilitating communication between them.
-
 -----
 
 ## ⚙️ Requirements
