@@ -4,10 +4,10 @@
 
 To run this project, you'll need the following software installed on your machine:
 
-  * [cite\_start]**.NET 9.0 SDK** [cite: 1]
-  * [cite\_start]**Rabbit MQ Client** [cite: 1]
-  * [cite\_start]**SQL Server** (version greater than 2019) [cite: 1]
-  * [cite\_start]**Python** [cite: 1]
+  * **.NET 9.0 SDK** 
+  * **Rabbit MQ Client**
+  * **SQL Server** (version greater than 2019)
+  * **Python**
 
 -----
 
@@ -23,9 +23,9 @@ Open your terminal and execute the following command:
 
 This script automates the following steps:
 
-1.  [cite\_start]Restores dependencies and runs the `AMLService`. [cite: 2]
-2.  [cite\_start]Restores dependencies and runs the `AuthenticationService`. [cite: 2]
-3.  [cite\_start]Starts the `PythonWorker`. [cite: 2]
+1.  Restores dependencies and runs the `AMLService`.
+2.  Restores dependencies and runs the `AuthenticationService`.
+3.  Starts the `PythonWorker`.
 
 -----
 
@@ -39,4 +39,4 @@ To clean the projects, run:
 .\Clean.bat
 ```
 
-[cite\_start]This will execute the `dotnet clean` command within the `AMLService` and `AuthenticationService` directories. [cite: 3]
+This will execute the `dotnet clean` command within the `AMLService` and `AuthenticationService` directories.
