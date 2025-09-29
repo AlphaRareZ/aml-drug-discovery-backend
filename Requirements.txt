@@ -1,0 +1,5 @@
+.NET 9.0 SDK
+Rabbit MQ Client 
+SQL Server > 2019
+Python
+

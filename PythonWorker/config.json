@@ -1,0 +1,7 @@
+{
+    "RabbitMQ": {
+        "host": "localhost",
+        "request_queue": "aml.requests",
+        "response_queue": "aml.responses"
+    }
+}
